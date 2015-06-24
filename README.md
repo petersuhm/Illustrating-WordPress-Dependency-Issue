@@ -11,7 +11,7 @@ Meaning that the second time the license manager is included, by Dummy Plugin Tw
 
 ## Test this yourself
 
-Clone repository and run `composer install` in both plugin directories. Modify constructor in `vendor/yoast/license-manager/class-plugin-license-manager.php` to include:
+Clone repository and run `composer install` in both plugin directories. Modify constructor in `dummy-plugin-one/vendor/yoast/license-manager/class-plugin-license-manager.php` to include:
 
 ```php
 var_dump('Hello from ' . __DIR__);
