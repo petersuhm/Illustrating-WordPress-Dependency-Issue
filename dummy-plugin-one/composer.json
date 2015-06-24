@@ -1,0 +1,5 @@
+{
+    "require": {
+        "yoast/license-manager": "^1.2"
+    }
+}
