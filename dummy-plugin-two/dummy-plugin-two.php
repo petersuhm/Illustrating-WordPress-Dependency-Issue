@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Plugin Name: Dummy Plugin One
+ * Plugin Name: Dummy Plugin Two
  */
 
 require __DIR__ . '/vendor/autoload.php';
