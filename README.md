@@ -1,4 +1,4 @@
-## When 2 plugins has same dependencies
+## When 2 plugins have the same dependency
 
 Outcome when modifying constructor of license manager included in Dummy Plugin One:
 
